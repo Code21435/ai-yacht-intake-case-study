@@ -2,6 +2,10 @@
 
 > Repository scope: this repository contains the interactive React/TypeScript frontend case study. The backend, AI, RAG and data components shown in the architecture represent the proposed system design and are not implemented in this public repository.
 
+## Live Demo
+
+[View the interactive case study](https://ai-yacht-intake-case-study.vercel.app/)
+
 A one-page interactive case study demonstrating how AI-driven intake systems can convert unclear yacht charter enquiries into structured operational briefs — complete with risk flags, missing-context detection, and recommended next actions.
 
 ## Overview
